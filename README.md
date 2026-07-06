@@ -94,7 +94,7 @@ Smart-Medicine-Reminder-Box/
 
 ![MEdicine Missed Condition](Missed_Medicine.png)
 
-![Final Project Image With Hardwware](Smart_Medi_Rem_Box_Project_photo.jpeg)
+![Final Project Image With Hardwware](Smart_Medi_Rem_Box_Project_Photo.jpeg)
 
 ---
 
